@@ -1,0 +1,130 @@
+header{
+    padding-left:15px;
+    padding-top: 25px;
+    background-color: rgb(212, 59, 212);
+    height: 50px;
+    font-size: medium;
+    color: white;
+    font-weight: bold;
+    
+}
+h4{
+    padding-left:15px;
+    padding-top: 25px;
+    background-color: rgb(121, 36, 121);
+    height: 40px;
+    font-size: medium;
+    color: white;
+    font-weight: bold;
+    
+
+}
+.first{
+    padding-left:15px;
+    padding-top: 25px;
+    margin-bottom: 10px;
+    background-color: rgb(248, 91, 248);
+    width: 500px;
+    height: 40px;
+    font-size: medium;
+    color: white;
+    font-weight: bold;
+    /* float:left; */
+    
+
+}
+.container{
+    padding-left:15px;
+    padding-top: 25px;
+    margin: auto;
+    margin-bottom: 20px;
+    background-color: rgb(248, 91, 248);
+    width: 700px;
+    height: 300px;
+    /* display: inline-block; */
+    font-size: medium;
+    color: white;
+    font-weight: bold;
+    float:right;
+   
+   
+   
+}
+.second{
+    padding-left:15px;
+    padding-top: 25px;
+    margin-top: 0%;
+    background-color: rgb(248, 91, 248);
+    width: 500px;
+    height: 120px;
+    /* display:inline-block; */
+    font-size: medium;
+    color: white;
+    font-weight: bold;
+
+
+}
+
+
+    
+    
+
+.four{
+    width: 600px;
+    height: 90px;
+    margin-bottom: 10px;
+    padding-left:15px;
+    padding-top: 25px;
+    background-color: pink;
+    font-size: medium;
+    color: white;
+    font-weight: bold;
+}
+.five{
+    width: 600px;
+    height: 90px;
+    padding-left:15px;
+    padding-top: 25px;
+    background-color: pink;
+    font-size: medium;
+    color: white;
+    font-weight: bold;
+}
+.six{
+    padding-left:15px;
+    padding-top: 25px;
+    margin-top: 5px;
+    margin-left: 20px;
+    background-color: rgb(248, 91, 248);
+    width: 300px;
+    height: 200px;
+    /* display:inline-block; */
+    font-size: medium;
+    color: white;
+    font-weight: bold;
+   
+    writing-mode:vertical-lr;
+    text-orientation: upright;
+    text-align: center;
+    
+    
+    /* text-transform: ; */
+
+    
+    float: right;
+}
+.tex{
+    padding-left: 110px;
+}
+.seven{
+    /* width: 600px; */
+    height: 50px;
+    padding-left:15px;
+    padding-top: 25px;
+    margin-top: 20px;
+    background-color: rgb(204, 88, 185);
+    font-size: medium;
+    color: white;
+    font-weight: bold;
+    clear: both;
+}
